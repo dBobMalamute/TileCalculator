@@ -1,0 +1,39 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Images/SquareRootImage.png</file>
+        <file>Images/TallSquareRootImage.png</file>
+        <file>QML/TileLogarithmBase2Idea.qml</file>
+        <file>QML/LogarithmBox.qml</file>
+        <file>QML/LogarithmHelperFunctions.js</file>
+        <file>QML/LogarithmFractionBox.qml</file>
+        <file>QML/TileLogarithmBase10Idea.qml</file>
+        <file>QML/TileLogarithmBaseEIdea.qml</file>
+        <file>QML/TilePowerOfTwoIdea.qml</file>
+        <file>QML/PowerHelperFunctions.js</file>
+        <file>QML/PowerBox.qml</file>
+        <file>QML/TilePowerOfTenIdea.qml</file>
+        <file>QML/TileExponentialIdea.qml</file>
+        <file>QML/TilePowerIdea.qml</file>
+        <file>QML/TileLogarithmBaseNIdea.qml</file>
+        <file>QML/QMLTemplates/LogarithmTemplate.qml</file>
+        <file>QML/QMLTemplates/PowerOfTemplate.qml</file>
+        <file>Images/UpArrows.png</file>
+        <file>Images/DownArrows.png</file>
+        <file>QML/LogarithmDisplayBox.qml</file>
+        <file>QML/TileAdditionIdea.qml</file>
+        <file>QML/TileMultiplicationIdea.qml</file>
+        <file>QML/MultiplicationHelperFunctions.js</file>
+        <file>QML/MultiplicationBox.qml</file>
+        <file>QML/TileFloorIdea.qml</file>
+        <file>QML/TileRectangles/FloorCeilRectangle.qml</file>
+        <file>QML/TileRectangles/FloorFinalRectangle.qml</file>
+        <file>QML/TileCeilingIdea.qml</file>
+        <file>QML/TileRectangles/CeilFinalRectangle.qml</file>
+        <file>QML/TileRectangles/AdditionRectangle.qml</file>
+        <file>QML/TileSubtractionIdea.qml</file>
+        <file>QML/TileRectangles/SubtractionLeaveRectangle.qml</file>
+        <file>QML/TileRectangles/SubtractionStayRectangle.qml</file>
+        <file>QML/PowerDisplayBox.qml</file>
+        <file>QML/TileSquaredIdea.qml</file>
+    </qresource>
+</RCC>
